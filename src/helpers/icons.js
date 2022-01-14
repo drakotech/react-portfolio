@@ -6,6 +6,10 @@ import {
   faTimesCircle,
   faCircleNotch,
   faFileMedical,
+  faPhone,
+  faEnvelope,
+  faMapMarkedAlt,
+  faLock,
 } from "@fortawesome/free-solid-svg-icons";
 
 const Icons = () => {
@@ -15,7 +19,11 @@ const Icons = () => {
     faEdit,
     faTimesCircle,
     faCircleNotch,
-    faFileMedical
+    faFileMedical,
+    faPhone,
+    faEnvelope,
+    faMapMarkedAlt,
+    faLock
   );
 };
 
